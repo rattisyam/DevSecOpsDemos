@@ -12,5 +12,5 @@
 # ls -la .pre-commit-config.yaml
 # -rw-r--r-- 1 LENOVO 197121 103 Jun 18 22:38 .pre-commit-config.yaml
 
-
+# scan all the commits using "gitleaks detect"
 
