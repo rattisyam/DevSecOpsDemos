@@ -1,0 +1,14 @@
+# Default owner for entire repository
+rattisyam
+
+# Terraform code
+terraform/* @cloud-team
+
+# Kubernetes manifests
+kubernetes/* @platform-team
+
+# Shell scripts
+scripts/* @devops-team
+
+# Documentation
+docs/* @techwriters
